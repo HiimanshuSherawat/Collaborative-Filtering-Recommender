@@ -24,4 +24,5 @@ the Timestamp of the rating (in UNIX time)
 
 
 Conclusion¶
+
 Recommender systems are a powerful technology that adds to a businesses value. Some business thrive on their recommender systems. It helps the business by creating more sales and it helps the end user buy enabling them to find items they like.
