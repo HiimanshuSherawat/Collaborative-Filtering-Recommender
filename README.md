@@ -21,3 +21,7 @@ the unique UserId (Customer Identification),
 the product ASIN (Amazon's unique product identification code for each product),
 Ratings (ranging from 1-5 based on customer satisfaction) and
 the Timestamp of the rating (in UNIX time)
+
+
+Conclusion¶
+Recommender systems are a powerful technology that adds to a businesses value. Some business thrive on their recommender systems. It helps the business by creating more sales and it helps the end user buy enabling them to find items they like.
