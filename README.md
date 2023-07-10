@@ -12,7 +12,7 @@ The Collaborative Filtering algorithm is very popular in online streaming platfo
 This notebook walks through the implementation of collaborative filtering using memory based technique of distnce proximity using cosine distances and nearest neighbours.
 
 
-**About the data¶**
+**About the data**
 
 This is a dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on Amazon's website.
 
@@ -23,6 +23,6 @@ Ratings (ranging from 1-5 based on customer satisfaction) and
 the Timestamp of the rating (in UNIX time)
 
 
-**Conclusion¶**
+**Conclusion**
 
 Recommender systems are a powerful technology that adds to a businesses value. Some business thrive on their recommender systems. It helps the business by creating more sales and it helps the end user buy enabling them to find items they like.
